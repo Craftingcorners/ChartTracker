@@ -12,6 +12,7 @@ Installation directions for non-programmers:
   You may need to download the latest Java JDK for the program to run (kind of like how you might need to download a program to read a pdf), you can find JDK 20 here       https://www.oracle.com/java/technologies/downloads/#jdk20-windows
 
 Information for programmers:
+
   I used the Java Netbeans IDE for development, feel free to download the code and edit as you wish, just please give me credit if you distribute it, thank you :)
 
 
