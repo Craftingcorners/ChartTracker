@@ -15,6 +15,10 @@ Installation directions for non-programmers:
 
 
 
+Video Tutorial
+https://youtu.be/FqMAqHJNvJM
+
+
 Information for programmers:
 
   I used the Java Netbeans IDE for development, feel free to download the code and edit as you wish, just please give me credit if you distribute it, thank you :)
